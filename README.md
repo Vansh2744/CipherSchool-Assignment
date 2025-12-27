@@ -1,5 +1,7 @@
+## Clone Repository
+
 git clone <repository-url>
-cd CipherSQLStudio
+cd CipherSchool-Assignment
 
 ## Backend Setup
 
